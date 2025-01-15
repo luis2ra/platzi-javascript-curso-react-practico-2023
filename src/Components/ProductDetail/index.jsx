@@ -14,7 +14,8 @@ const ProductDetail = () => {
         <div>
           <XMarkIcon
             className='h-6 w-6 text-black cursor-pointer'
-            onClick={() => context.closeProductDetail()}></XMarkIcon>
+            onClick={() => context.closeProductDetail()}>
+          </XMarkIcon>
         </div>
       </div>
       <figure className='px-6'>
