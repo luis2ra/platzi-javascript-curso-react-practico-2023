@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # tests
-coverage/*
+coverage/
